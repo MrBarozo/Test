@@ -1,1 +1,2 @@
 "#TESTOWE" 
+Przykladowy commit
