@@ -1,4 +1,8 @@
 "Hello world"
 Siemanko po raz drugi
 i po raz trzeci
+<<<<<<< HEAD
 asdfasdfaaaaaaaSssdfasasdad
+=======
+asdfasdfaaaaaaaS
+>>>>>>> 448e503edb6a872c530e0231abce5874aee5f5f1
